@@ -52,6 +52,14 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 </p>
 
 <hr>
+<div align="center">
+	
+
+![Abbas Shaikh's GitHub time stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abbas12321&layout=compact&theme=synthwave&v=2)
+
+
+</div>
+
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Abbas12321/count.svg)

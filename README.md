@@ -9,8 +9,8 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Abbas12321.Abbas12321)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
+![](https://visitor-badge.glitch.me/badge?page_id=Abbas12321.Abbas12321) <br>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-738%20lines%20of%20code-blue)
 
 
 <br />

@@ -53,6 +53,10 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 
 <hr>
 
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/Abbas12321/blob/main/github-contribution-grid-snake.svg)
+
+<hr>
+
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Abbas12321/count.svg)
 

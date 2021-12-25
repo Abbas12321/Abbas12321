@@ -37,10 +37,9 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 </p>
 
 <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
-<p align="center">
+<p align="center"> 
+  �📈 Github Stats
   <a href="https://github.com/Abbas12321">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abbas12321&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>

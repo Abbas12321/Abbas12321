@@ -9,7 +9,6 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Abbas12321.Abbas12321) 
 
 <br />
 
@@ -43,6 +42,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👇👇
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abbas12321&show_icons=true&locale=en" alt="Abbas Shaikh" width="410" /></p>
 
 <hr>
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Abbas12321/count.svg)
 
 
 

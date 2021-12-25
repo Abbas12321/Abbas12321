@@ -48,7 +48,7 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abbas12321&theme=dark&hide_border=true"/>
 </p>
 
 <hr>

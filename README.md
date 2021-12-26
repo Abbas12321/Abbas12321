@@ -1,14 +1,6 @@
 <p align="center"> 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Abbas Here
-<a href="https://discord.gg/v7G44BAf">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Shaikh_Abbas98">
-  <img align="left" alt="Abbas Shaikh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abbas-shaikh3/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, Abbas Here
+
 </P>
 
 <p><img align="right" src="https://github.com/Abbas12321/Abbas12321/blob/main/animation_500_kxa883sd.gif" alt="abbas12321" /></p>

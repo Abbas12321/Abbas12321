@@ -1,10 +1,16 @@
-<p align="center"> 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, Abbas Here
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Abbas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-</P>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/abbas-shaikh3/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Shaikh_Abbas98"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/abbas12321"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 
-<p><img align="right" src="https://github.com/Abbas12321/Abbas12321/blob/main/animation_500_kxa883sd.gif" alt="abbas12321" /></p>
-
+ </p>
 <br />
 
 <p align="center">

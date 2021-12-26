@@ -57,6 +57,9 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 
 <hr>
 
+<p align="center">
+   <img src="https://github.com/Abbas12321/Abbas12321/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Abbas12321/count.svg)

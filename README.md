@@ -13,6 +13,8 @@
 
  </p>
 <br />
+<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 <p align="center">
   <em>
@@ -37,8 +39,6 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 </p>
 
 <hr>
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 <h3 align="left">Languages and Tools:💻</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img

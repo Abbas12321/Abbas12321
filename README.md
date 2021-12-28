@@ -84,11 +84,11 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
       height="40" /> </a> </p>
 <br>
 <hr>
-
+<p align="center"> 
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31wsmptrruvyoxyqmmrtuimcxxhi)
-
+</p>
 <hr>
 <p align="center"> 
  

@@ -83,12 +83,7 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
 <br>
-<hr>
-<p align="center"> 
-<h3 align="center">Spotify Playing 🎧</h3>
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31wsmptrruvyoxyqmmrtuimcxxhi)
 
-</p> 
 <hr>
 <p align="center"> 
  

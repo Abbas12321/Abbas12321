@@ -86,6 +86,7 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 <hr>
 <p align="center"> 
 <h3 align="center">Spotify Playing 🎧</h3>
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31wsmptrruvyoxyqmmrtuimcxxhi)
 
 </p> 
 <hr>

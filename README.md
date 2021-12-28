@@ -97,8 +97,6 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 <p align="center">
 🔥 Streak Stats
 <p align="center">
-   <img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abbas12321&theme=dark&hide_border=true"/>
 </p>
 </p>

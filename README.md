@@ -21,13 +21,12 @@
     A budding <b>Software Developer Enthusiast, Web Developer </b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> and 
-    <b>excel</b> &nbsp.
+    <b>excel</b>.
   </em> 
   <br>
    <b><i>Learning while HOPING & HUSTLING!!!</i></b>
 </p>
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   
 

@@ -27,7 +27,7 @@
    <b><i>Learning while HOPING & HUSTLING!!!</i></b>
    
    <div align="center">
-   <img src="[https://github.com/Abbas12321/Abbas12321/blob/main/giphy.webp]" alt="eatsleepcode" width="250" height="250" />
+   <img src="[https://github.com/Abbas12321/Abbas12321/blob/main/giphy.webp]" alt="Coder" width="400" height="250" />
       </div>
 </p>
 

@@ -109,4 +109,6 @@ if you like what i do, maybe consider buying me a coffee/tea/chai 😉✌️👇
 
 #### Thanks for visiting :heart:
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

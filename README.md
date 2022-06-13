@@ -25,7 +25,7 @@
   </em> 
   <br>
    <b><i>Learning while HOPING & HUSTLING!!!</i></b>
-   <img src="(https://github.com/Abbas12321/Abbas12321/blob/main/giphy.webp)" alt="eatsleepcode" width="250" height="250" />
+   <img src="[https://github.com/Abbas12321/Abbas12321/blob/main/giphy.webp]" alt="eatsleepcode" width="250" height="250" />
 </p>
 
 

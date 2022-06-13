@@ -25,11 +25,11 @@
   </em> 
   <br>
    <b><i>Learning while HOPING & HUSTLING!!!</i></b>
-   
+   </p>
+
    <div align="center">
    <img src="[https://github.com/Abbas12321/Abbas12321/blob/main/giphy.webp]" alt="Coder" width="400" height="250" />
       </div>
-</p>
 
 
   

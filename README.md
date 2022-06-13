@@ -12,7 +12,7 @@
 <a href="https://dev.to/abbas12321"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 
  </p>
-<br />
+<br/>
 
 
 <p align="center">

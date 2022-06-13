@@ -28,7 +28,7 @@
    </p>
 
    <div align="center">
-   <img src="(https://raw.githubusercontent.com/Abbas12321/Abbas12321/main/giphy.webp)" alt="Coder" width="400" height="250" />
+   <img src="[https://raw.githubusercontent.com/Abbas12321/Abbas12321/main/giphy.webp]" alt="Coder" width="400" height="250" />
       </div>
 
 

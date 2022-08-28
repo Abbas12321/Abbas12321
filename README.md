@@ -17,7 +17,7 @@
 
 <p align="center">
   <em>
-    This is ME, Abbas Shaikh, a <b>final year</b> undergraduate from <a href="https://www.aiktc.ac.in/"> <b>Anjuman-I-Islam's Kalsekar Technical Campus</b>, Navi Mumbai</a>. <br>
+    This is ME, Abbas Shaikh, graduated from <a href="https://www.aiktc.ac.in/"> <b>Anjuman-I-Islam's Kalsekar Technical Campus</b>, Navi Mumbai</a>. <br>
     A Budding <b>Software Developer, Addiction of Algorithm and Structure of Data</b> and a <b>Competitive Programmer</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> and 

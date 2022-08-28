@@ -18,7 +18,7 @@
 <p align="center">
   <em>
     This is ME, Abbas Shaikh, a <b>final year</b> undergraduate from <a href="https://www.aiktc.ac.in/"> <b>Anjuman-I-Islam's Kalsekar Technical Campus</b>, Navi Mumbai</a>. <br>
-    A budding <b>Software Developer Enthusiast, Web Developer </b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
+    A Budding <b>Software Developer, Addiction of Algorithm and Structure of Data</b> and a <b>Competitive Programmer</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> and 
     <b>excel</b>.
@@ -26,12 +26,6 @@
   <br>
    <b><i>Learning while HOPING & HUSTLING!!!</i></b>
    </p>
-
-   <div align="center">
-   <img src="[https://raw.githubusercontent.com/Abbas12321/Abbas12321/main/giphy.webp]" alt="Coder" width="400" height="250" />
-      </div>
-
-
   
 
 <p align="center">
